@@ -15,7 +15,7 @@ A fully integrated GUI for managing SSH servers, keys, and passwords.
 - **One-Click Connect:** Open standard SSH or `expect`-wrapped password connections instantly.
 
 ![SSH Context Menu](images/iterm2-ssh-manager-list-item-right-click.png)
-![Edit Server](images/iterm2-ssh-manager-list-item-add-edit.png)
+![Edit Server](images/iterm2-ssh-manager-add-edit-v2.png)
 
 ### 📜 2. Snippets Manager
 A parallel tool for organizing and rapidly firing off shell commands without leaving your terminal.
