@@ -1,0 +1,15 @@
+# iTerm2 Environment
+**/iterm2env/
+
+# Data Files (Local/Private)
+*.json
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
